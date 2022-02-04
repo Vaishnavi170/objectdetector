@@ -1,0 +1,14 @@
+a{
+    font-size: 20px !important;
+    width: 400px;
+    background-color: cyan;
+    border-radius: 50px !important;
+    color: black;
+}
+body{
+    background-size: cover;
+}
+canvas{
+    box-shadow: 10px 10px 10px deeppink;
+    border-radius: 10px;
+}
